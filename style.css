@@ -54,6 +54,7 @@ a:hover {
     padding: 10px;
     outline: none;
     border: none;
+    text-align: left;
 }
 
 .searchbar-container {
