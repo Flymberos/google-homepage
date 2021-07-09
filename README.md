@@ -1,0 +1,1 @@
+First project from the Odin Project website where we have to recreate Google's homepage.
