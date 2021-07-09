@@ -1,0 +1,113 @@
+
+#navbar {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#navbar > a {
+    margin-right: 10px;
+}
+
+#navbar > img {
+    margin-left : 20px
+}
+
+#apps-grid {
+    width: 20px;
+    height: 20px;
+    opacity: 60%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 0.9em;
+    font-family: arial;
+    opacity: 80%;
+    font-size: 13px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#profile-pic {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.center-horizontally {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#google-logo {
+    padding-top: 220px;
+}
+
+#google-searchbar {
+    width: 527px;
+    padding: 10px;
+    outline: none;
+    border: none;
+}
+
+.searchbar-container {
+    border: 1px solid #dfe1e5;
+    border-radius: 25px;
+    width: auto;
+    margin-top: 43px;
+    height: 44px;
+    max-width: 582px;
+    display: flex;
+    align-items: center;
+}
+
+.searchbar-container:hover {
+    box-shadow: 0 1px 6px rgba(32,33,36,.28)
+}
+
+#google-magnifying-glass-svg {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 12px;
+    opacity: 40%;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.search-buttons {
+    margin-top: 30px;
+    border: 1px solid transparent;
+    margin-right: 10px;
+    font-size: 14px;
+    padding: 12px;
+    font-family: arial;
+    opacity: 80%;
+}
+
+.search-buttons:hover{
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    border: 1px solid #dadce0;
+}
+
+p > a {
+    color: blue;
+    margin-right: 5px;
+}
+
+#paragraph {
+    margin-top: 30px;
+    font-size: 14px;
+    opacity: 90%;
+    
+    font-family: arial;
+}
